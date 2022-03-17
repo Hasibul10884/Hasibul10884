@@ -1,6 +1,6 @@
 ### Hi there 👋, I,am Hassibul Islam
 #### I am passionate MERN Developer.
-![I am passionate MERN Developer.](https://avatars.githubusercontent.com/u/57311518?v=4)
+![I am passionate MERN Developer.]
 
 Hello There! I am Hasibul Islam from Bangladesh.A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript
 
