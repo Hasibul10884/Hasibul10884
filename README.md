@@ -1,10 +1,12 @@
 ### Hi there 👋, I,am Hassibul Islam
 #### I am passionate MERN Developer.
-![I am passionate MERN Developer.]
+
+
+<h2>I am passionate Laravel Developer.</h2>
 
 Hello There! I am Hasibul Islam from Bangladesh.A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript
 
-Skills: VUE JS / REACT / JS / HTML / CSS 
+Skills: VUE JS / REACT / JS / HTML / CSS / PHP / Laravel
 
 
 - 🔭 I’m currently working on React base project. 
