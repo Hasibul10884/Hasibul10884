@@ -2,15 +2,15 @@
 #### 
 
 
-<h2>I am passionate Laravel Developer.</h2>
+<h2>I am passionate Web Developer and Software Quality Assurance Engineer.</h2>
 
 Hello There! I am Hasibul Islam from Bangladesh.A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PHP / Laravel
+Skills: Selenium /  Java /  CSS / PHP / Laravel
 
 
 - 🔭 I’m currently working on React base project. 
-- 🌱 I’m currently learning Javascript framework 
+- 🌱 I’m currently learning Selenium / Postman / Api Testing
 - 💬 Ask me about my dream. 
 
 <h3 align="left">Languages and Tools:</h3>
